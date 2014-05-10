@@ -30,14 +30,14 @@ Hooks for js should use prefix `.js-*`.
 Html codestyle
 =============
 1) `<title>name page</title>`
-2) comments all `layouts` and sufficiently large independent `block`. Comments are separated empty string. Some http://take.ms/HVqrC
+2) comments all `layouts` and sufficiently large independent `block`. Comments are separated empty string. Some [example link]http://take.ms/HVqrC
 
 Sass codestyle
 =============
-// 1) каждый новый блок (не элемент, а блок) имеет такую форму комментариев
-1) Each new block (not element and block) has the form of comments http://take.ms/hgpNo
-// 2) все элементы блока, должны иметь как минимум одну вложеность (но не боле 3-х) в своего родителя
-2) all the elements of the block must have at least one nested. Some: http://take.ms/EGuEb
+// 1) каждый новый блок (не элемент, а блок) имеет такую форму комментариев.
+1) Each new block (not element and block) has the form of comments [example link]http://take.ms/hgpNo.
+// 2) все элементы блока, должны иметь как минимум одну вложеность (но не боле 3-х) в своего родителя.
+2) all the elements of the block must have at least one nested. Some: [example link]http://take.ms/EGuEb.
 3) Структура. По умолчанию структура sass такая:
 	3.1) common.sass:
 		шрифты, 
