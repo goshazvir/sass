@@ -29,7 +29,8 @@ Hooks for js should use prefix `.js-*`.
 
 Html codestyle
 =============
-1) `<title>name page</title>`
+1) `<title>name page</title>`.
+
 2) comments all `layouts` and sufficiently large independent `block`. Comments are separated empty string. Some [example link](http://take.ms/HVqrC).
 
 Sass codestyle
